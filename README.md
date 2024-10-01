@@ -6,5 +6,5 @@
 
 ## Features
 - Matrix operations: addition, multiplication, etc.
-- Vector manipulation and operations
+- Vector operations
 - C-based implementation with custom header and source files
